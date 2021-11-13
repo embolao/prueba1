@@ -1,0 +1,15 @@
+---
+title: "Variables y funciones"
+author: "Curso Básico de R"
+date: "13/11/2021"
+output: html_document
+---
+
+# Variables
+Bienvenidos al curso de R!!!
+```{r}
+26 + 95
+x = 77
+x
+```
+
