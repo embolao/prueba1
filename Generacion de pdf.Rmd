@@ -1,0 +1,15 @@
+---
+title: "Generacion de PDF"
+author: "Curso Básico de R"
+date: "13/11/2021"
+output: pdf_document
+---
+# Generar PDF's con Tinytex
+```{r, eval=FALSE}
+tinytex::install_tinytex()
+2 + 2
+y = 5
+y
+plot(function(x)x^2)
+```
+
